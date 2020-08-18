@@ -22,9 +22,11 @@ Please ensure that you've installed Adobe XD on your machine.
 3. Follow me along in the web-session :)  
 
 <hr>
-If you'd like to submit your designs to this repository, feel free to create a pull request.
 
-### How to make a Pull Request:
+
+### How to make a Pull Request:  
+If you'd like to submit your designs to this repository, feel free to create a pull request.  
+<br>
 
 **1.** Fork [this](https://github.com/ishandeveloper/Techweek-Workshop) repository.
 
