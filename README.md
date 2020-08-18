@@ -47,7 +47,7 @@ cd Techweek-Workshop
 ```terminal
 git checkout -b design
 ```
-**5.** Make changes in source code.
+**5.** Add your XD design file and screenshot in **'submissions'** folder.
 
 **6.** Commit your changes.
 
