@@ -57,7 +57,7 @@ git checkout -b design
 **7.** Push your local branch to the remote repository.
 
 ```terminal
-git push -u origin development
+git push -u origin design
 ```
 
 **8.** Create a Pull Request!
